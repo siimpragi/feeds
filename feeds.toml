@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[umaleht]
+title = "Uma Leht"
+url = "https://umaleht.ee/"
+entrySelector = "section#content .issuem_article"
+titleSelector = "a.issuem_article_link"
+linkSelector = "a.issuem_article_link"
