@@ -2,5 +2,5 @@
 title = "Uma Leht"
 url = "https://umaleht.ee/"
 entrySelector = "section#content .issuem_article"
-titleSelector = "a.issuem_article_link"
+titleSelector = "p:nth-child(3)"
 linkSelector = "a.issuem_article_link"
