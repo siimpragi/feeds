@@ -1,127 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://siimpragi.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-07-07T15:58:40.760Z</updated>
+    <id>https://umaleht.ee/</id>
+    <title>Uma Leht</title>
+    <updated>2021-07-07T15:58:40.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[stamps from the Pitcairn Islands (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_the_Pitcairn_Islands</id>
-        <link href="https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_the_Pitcairn_Islands"/>
-        <updated>2021-07-07T15:58:38.254Z</updated>
-        <content type="html"><![CDATA[... that a decline in the sale of <b><a href="/wiki/Postage_stamps_and_postal_history_of_the_Pitcairn_Islands" title="Postage stamps and postal history of the Pitcairn Islands">stamps from the Pitcairn Islands</a></b> <i>(example pictured)</i> led to <a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">the territory</a>'s bankruptcy?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chester W. Emmons (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Chester_Wilson_Emmons</id>
-        <link href="https://en.wikipedia.org/wiki/Chester_Wilson_Emmons"/>
-        <updated>2021-07-07T15:58:38.259Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a>'s first mycologist, <b><a href="/wiki/Chester_Wilson_Emmons" title="Chester Wilson Emmons">Chester W. Emmons</a></b>, demonstrated that <a href="/wiki/Mycosis" title="Mycosis">fungal infections</a> were common and widespread?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basilica of Saint Maternus (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Basilica_of_Saint_Maternus</id>
-        <link href="https://en.wikipedia.org/wiki/Basilica_of_Saint_Maternus"/>
-        <updated>2021-07-07T15:58:38.260Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Basilica_of_Saint_Maternus" title="Basilica of Saint Maternus">Basilica of Saint Maternus</a></b> in <a href="/wiki/Walcourt" title="Walcourt">Walcourt</a>, Belgium, contains one of the oldest preserved Marian devotional statues in Western Christianity?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubén Rocha Moya (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Rub%C3%A9n_Rocha_Moya</id>
-        <link href="https://en.wikipedia.org/wiki/Rub%C3%A9n_Rocha_Moya"/>
-        <updated>2021-07-07T15:58:38.275Z</updated>
-        <content type="html"><![CDATA[... that Mexican politician <b><a href="/wiki/Rub%C3%A9n_Rocha_Moya" title="Rubén Rocha Moya">Rubén Rocha Moya</a></b> obtained a law degree while serving as a <a href="/wiki/Senate_of_the_Republic_(Mexico)" title="Senate of the Republic (Mexico)">senator</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jane Douglass White (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Jane_Douglass_White</id>
-        <link href="https://en.wikipedia.org/wiki/Jane_Douglass_White"/>
-        <updated>2021-07-07T15:58:38.276Z</updated>
-        <content type="html"><![CDATA[... that before she entered the <a href="/wiki/United_States_Army" title="United States Army">U.S. Army</a> in 1942, <b><a href="/wiki/Jane_Douglass_White" title="Jane Douglass White">Jane Douglass White</a></b>, a songwriter for <b><a href="/wiki/Soldier%27s_show" title="Soldier's show">soldier's shows</a></b>, had already composed the tune which would become the official "<b><a href="/wiki/Song_of_the_Women%27s_Army_Corps" title="Song of the Women's Army Corps">Song of the Women's Army Corps</a></b>"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sigge Stark (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Sigge_Stark</id>
-        <link href="https://en.wikipedia.org/wiki/Sigge_Stark"/>
-        <updated>2021-07-07T15:58:38.276Z</updated>
-        <content type="html"><![CDATA[... that during the 1940s, <b><a href="/wiki/Sigge_Stark" title="Sigge Stark">Sigge Stark</a></b> became <a href="/wiki/Sweden" title="Sweden">Sweden</a>'s most published, most read, as well as most criticised author?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guilty (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Guilty_(manga)</id>
-        <link href="https://en.wikipedia.org/wiki/Guilty_(manga)"/>
-        <updated>2021-07-07T15:58:38.277Z</updated>
-        <content type="html"><![CDATA[... that the theme song for <i><b><a href="/wiki/Guilty_(manga)" title="Guilty (manga)">Guilty</a></b></i><span class="nowrap" style="padding-left:0.1em;">'s</span> live-action television series is <a href="/wiki/Toshi_(musician)" title="Toshi (musician)">Toshi</a>'s first original song in 22 years?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dover Eight (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Dover_Eight</id>
-        <link href="https://en.wikipedia.org/wiki/Dover_Eight"/>
-        <updated>2021-07-07T15:58:38.278Z</updated>
-        <content type="html"><![CDATA[... that two of the men in the <b><a href="/wiki/Dover_Eight" title="Dover Eight">Dover Eight</a></b> were going to join the <a href="/wiki/John_Brown%27s_raid_on_Harpers_Ferry" title="John Brown's raid on Harpers Ferry">raid on Harpers Ferry</a> led by <a href="/wiki/John_Brown_(abolitionist)" title="John Brown (abolitionist)">John Brown</a> but ultimately backed out?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cork (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Cork</id>
-        <link href="https://en.wikivoyage.org/wiki/Cork"/>
-        <updated>2021-07-07T15:58:38.493Z</updated>
-        <content type="html"><![CDATA[
-<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:35%">
-		<h2><span class="mw-headline" id="Cork"><a href="/wiki/Cork" title="Cork">Cork</a></span></h2>
-		<h3><span class="mw-headline" id="Destination_of_the_month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the month</a></span></h3>
-		<div class="quote"><a href="/wiki/Cork" title="Cork">Pubs, Irish sports and a fort await you in Ireland's second city.</a></div>
-	</div>
-<p>	<img alt="Cork" src="//upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/1700px-Cork_banner_River_Lee_south_channel.jpg" decoding="async" title="Cork" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/2550px-Cork_banner_River_Lee_south_channel.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/3400px-Cork_banner_River_Lee_south_channel.jpg 2x" data-file-width="7200" data-file-height="2400" width="1700" height="567">
-</p>
-	<a href="/wiki/Cork" title="Cork"><img alt="Cork" src="//upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/1700px-Cork_banner_River_Lee_south_channel.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/2550px-Cork_banner_River_Lee_south_channel.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/f/ff/Cork_banner_River_Lee_south_channel.jpg/3400px-Cork_banner_River_Lee_south_channel.jpg 2x" data-file-width="7200" data-file-height="2400" width="1700" height="567"></a></div>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visp (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Visp</id>
-        <link href="https://en.wikivoyage.org/wiki/Visp"/>
-        <updated>2021-07-07T15:58:38.495Z</updated>
-        <content type="html"><![CDATA[
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
-		<h2><span class="mw-headline" id="Visp"><a href="/wiki/Visp" title="Visp">Visp</a></span></h2>
-		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
-		<div class="quote"><a href="/wiki/Visp" title="Visp">This town is known as a rail hub and for its chemical plant, but if you step off the train there are still some things to see in Visp.</a></div>
-	</div>
-<p>	<img alt="Visp" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/43/Visp_banner_Panorama.jpg/1700px-Visp_banner_Panorama.jpg" decoding="async" title="Visp" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/4/43/Visp_banner_Panorama.jpg 1.5x" data-file-width="1967" data-file-height="656" width="1700" height="567">
-</p>
-	<a href="/wiki/Visp" title="Visp"><img alt="Visp" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/43/Visp_banner_Panorama.jpg/1700px-Visp_banner_Panorama.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/4/43/Visp_banner_Panorama.jpg 1.5x" data-file-width="1967" data-file-height="656" width="1700" height="567"></a></div>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American cuisine (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/American_cuisine</id>
-        <link href="https://en.wikivoyage.org/wiki/American_cuisine"/>
-        <updated>2021-07-07T15:58:38.495Z</updated>
-        <content type="html"><![CDATA[
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:35%">
-		<h2><span class="mw-headline" id="American_cuisine"><a href="/wiki/American_cuisine" title="American cuisine">American cuisine</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_Travel_Topics" class="mw-redirect" title="Previous Featured Travel Topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/American_cuisine" title="American cuisine">Savor the delights of one of the world's most diverse yet underrated culinary traditions.</a></div>
-	</div>
-<p>	<img alt="American cuisine" src="//upload.wikimedia.org/wikivoyage/en/thumb/1/1d/AmericancuisineBanner1.jpg/1700px-AmericancuisineBanner1.jpg" decoding="async" title="American cuisine" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/1/1d/AmericancuisineBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567">
-</p>
-	<a href="/wiki/American_cuisine" title="American cuisine"><img alt="American cuisine" src="//upload.wikimedia.org/wikivoyage/en/thumb/1/1d/AmericancuisineBanner1.jpg/1700px-AmericancuisineBanner1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/1/1d/AmericancuisineBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567"></a></div>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/voromaa-keelepesa-10/</id>
         <link href="https://umaleht.ee/article/voromaa-keelepesa-10/"/>
         <updated>2021-07-07T15:58:40.624Z</updated>
@@ -134,7 +18,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/seo-kuu-lopun-oodotas-navi-kulan-godotd/</id>
         <link href="https://umaleht.ee/article/seo-kuu-lopun-oodotas-navi-kulan-godotd/"/>
         <updated>2021-07-07T15:58:40.625Z</updated>
@@ -147,7 +31,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/paasna-kula-priinime-tahvli-paal/</id>
         <link href="https://umaleht.ee/article/paasna-kula-priinime-tahvli-paal/"/>
         <updated>2021-07-07T15:58:40.626Z</updated>
@@ -160,7 +44,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/kaika-suvoulikooli-matkapaiv-tulo-31-07-voro-liinan-ja-kirapaa-kandsi-man/</id>
         <link href="https://umaleht.ee/article/kaika-suvoulikooli-matkapaiv-tulo-31-07-voro-liinan-ja-kirapaa-kandsi-man/"/>
         <updated>2021-07-07T15:58:40.627Z</updated>
@@ -173,7 +57,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/paganamaa-paava-9-10-hainakuul/</id>
         <link href="https://umaleht.ee/article/paganamaa-paava-9-10-hainakuul/"/>
         <updated>2021-07-07T15:58:40.627Z</updated>
@@ -186,7 +70,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/noormetsa-helgi-nimeline-pink/</id>
         <link href="https://umaleht.ee/article/noormetsa-helgi-nimeline-pink/"/>
         <updated>2021-07-07T15:58:40.628Z</updated>
@@ -199,7 +83,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/kavva-oodot-samm-mi-kandi-kombido-haas/</id>
         <link href="https://umaleht.ee/article/kavva-oodot-samm-mi-kandi-kombido-haas/"/>
         <updated>2021-07-07T15:58:40.629Z</updated>
@@ -212,7 +96,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/aiaga-piat-iks-aigu-oloma/</id>
         <link href="https://umaleht.ee/article/aiaga-piat-iks-aigu-oloma/"/>
         <updated>2021-07-07T15:58:40.630Z</updated>
@@ -225,7 +109,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/keskialitse-palvo-om-abis/</id>
         <link href="https://umaleht.ee/article/keskialitse-palvo-om-abis/"/>
         <updated>2021-07-07T15:58:40.633Z</updated>
@@ -238,7 +122,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/puurikanust-ja-aoluust/</id>
         <link href="https://umaleht.ee/article/puurikanust-ja-aoluust/"/>
         <updated>2021-07-07T15:58:40.634Z</updated>
@@ -251,7 +135,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/kiri-vorolt-roitoloma/</id>
         <link href="https://umaleht.ee/article/kiri-vorolt-roitoloma/"/>
         <updated>2021-07-07T15:58:40.636Z</updated>
@@ -264,7 +148,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/ooporitenor-mehkamaalt/</id>
         <link href="https://umaleht.ee/article/ooporitenor-mehkamaalt/"/>
         <updated>2021-07-07T15:58:40.637Z</updated>
@@ -277,7 +161,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/setomaal-jaanitulol-ja-tsipakoso-jaanipaavakombist/</id>
         <link href="https://umaleht.ee/article/setomaal-jaanitulol-ja-tsipakoso-jaanipaavakombist/"/>
         <updated>2021-07-07T15:58:40.638Z</updated>
@@ -290,7 +174,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/priinime-lugu-vaab/</id>
         <link href="https://umaleht.ee/article/priinime-lugu-vaab/"/>
         <updated>2021-07-07T15:58:40.641Z</updated>
@@ -303,7 +187,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/trehvamine-seenemotsan/</id>
         <link href="https://umaleht.ee/article/trehvamine-seenemotsan/"/>
         <updated>2021-07-07T15:58:40.642Z</updated>
@@ -316,7 +200,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/marje/</id>
         <link href="https://umaleht.ee/article/marje/"/>
         <updated>2021-07-07T15:58:40.643Z</updated>
@@ -329,7 +213,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/tossu-tilda-pajatus-74/</id>
         <link href="https://umaleht.ee/article/tossu-tilda-pajatus-74/"/>
         <updated>2021-07-07T15:58:40.644Z</updated>
@@ -342,7 +226,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/muda-mari-pajatus-87/</id>
         <link href="https://umaleht.ee/article/muda-mari-pajatus-87/"/>
         <updated>2021-07-07T15:58:40.645Z</updated>
@@ -355,7 +239,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ (Uma Leht)]]></title>
+        <title type="html"><![CDATA[]]></title>
         <id>https://umaleht.ee/article/parm-tsuskas-triigimi-lainit/</id>
         <link href="https://umaleht.ee/article/parm-tsuskas-triigimi-lainit/"/>
         <updated>2021-07-07T15:58:40.646Z</updated>
