@@ -29,3 +29,5 @@ To automatically generate feeds on GitLab:
 
 GitLab CI/CD will then automatically run at your selected interval to check for
 updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+
+:-)
